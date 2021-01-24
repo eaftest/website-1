@@ -7,8 +7,8 @@ nav_order: 3
 
 # Living the Bripe Life
 
-## Author: Bripe
-### Author: Bripe
 #### Author: Bripe
-##### Author: Bripe
+
+Lorem Ipsum
+
 ###### Author: Bripe

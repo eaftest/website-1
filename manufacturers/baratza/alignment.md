@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Baratza Alignment
+title: Baratza Vario Burr Alignment
 parent: Baratza
 grand_parent: Manufacturers
 ---
 
-# Baratza Alignment
+# Baratza Vario Burr Alignment

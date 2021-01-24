@@ -1,7 +1,7 @@
 // Colors
 
 $blue: #00A3B7;
-$latte: #d2bbb5;
+$latte: #e6ccc6;
 $coffee: #35302c;
 $espresso: #2f2b27;
 $greyish: #99AAB5;
@@ -12,9 +12,9 @@ $black: #000000;
 
 // Actual styles
 
-$body-background-color: lighten($coffee, 5%);
+$body-background-color: $coffee;
 $sidebar-color: $espresso;
-$border-color: lighten($coffee, 15%);
+$border-color: lighten($coffee, 25%);
 
 $body-text-color: $grey-lt-300;
 $body-heading-color: $grey-lt-000;

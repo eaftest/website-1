@@ -1,3 +1,4 @@
-remote_theme: Espresso-Aficionados/slate
+remote_theme: pmarsceill/just-the-docs
 title: Espresso Aficionados
 description: Info from the Espresso Aficionados discord server
+color_scheme: "dark"

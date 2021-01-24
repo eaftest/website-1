@@ -1,3 +1,10 @@
+---
+layout: default
+title: Midrange Grinders
+parent: Recommendations
+nav_order: 6
+---
+
 # Midrange Grinders
 Welcome to the Midrange Grinder List! This is where the word "diminishing returns" starts getting thrown around a lot. For many people, especially those who prefer medium or medium-dark roasts, you will not find significant improvements in taste by upgrading your grinder from here. Light-roasts are another story, but we'll get to that later.
 
@@ -6,7 +13,7 @@ Depending on the user's propensity to modify, tinker, and align, grind quality w
 ### A few Definitions/Notes
 
 #### Burr Measurements and Geometry
-Flat Burrs and conical burrs are both measured via their outer diameter, so comparing burr sizes between them is not a useful endeavor. The usefulness of large burrs for a home application comes down to available grinding surface-area, which depending on the geometry, will lead to improved taste. In addition, there has been much conjecture about the taste of a flat vs a conical burr. This is an oversimplification; both flat and conical burrs are designed with a huge variety of geometries and cannot be generalized into a singular taste profile. 
+Flat Burrs and conical burrs are both measured via their outer diameter, so comparing burr sizes between them is not a useful endeavor. The usefulness of large burrs for a home application comes down to available grinding surface-area, which depending on the geometry, will lead to improved taste. In addition, there has been much conjecture about the taste of a flat vs a conical burr. This is an oversimplification; both flat and conical burrs are designed with a huge variety of geometries and cannot be generalized into a singular taste profile.
 
 #### SSP Burr Swaps
 SSP is a Korean company that designs and machines high-end burrs. They are contracted by companies such as Kafatek, Weber-Workshops, and Option-O to design burrs for their grinders. SSP creates burrs which can be swapped into old commercial grinders, which can greatly improve the grind quality. [Website](http://www.sspgrind.com/sub/product/product.php).
@@ -67,7 +74,7 @@ Note: there are a few avenues if you want to align your own grinder. If you have
 ## Commercial Grinders
 Differences between the grinders of the same burr size would be down to alignment or burr-quality. These usually don't grind as well as the modern home grinders, since R&D money has gone into designing for reliability and speed. However, these grinders come alive with a bit of modding. With alignment and a set of SSP burrs, this is as good as it gets before you spend on a titan.
 
-### 64mm Commercials 
+### 64mm Commercials
 
 #### Mazzer Super Jolly: anything <$350 is a decent used price
 - *Everywhere*  
@@ -78,9 +85,9 @@ Differences between the grinders of the same burr size would be down to alignmen
 
 **Pros:** Active modding community, absolute tanks, almost always worth saving, can be had as low as $20 (I'm serious)  
 **Cons:** Usually has doser, absolute unit, lose calibration with burr cleaning, horrible single-dosing workflow, loud   
-**Comparable Grinders:** Fiorenzato F4E, Anfim Caimano, Ceado e37j, Ceado E6P, Compak k6, Mazzer Mini Doserless (beware of motor), ECM S-Manuale 64, Nuova Simonelli MDX, Eureka Atom, Helios, Zenith 65 (buy SSP at your own risk: they may  or may not fit) 
+**Comparable Grinders:** Fiorenzato F4E, Anfim Caimano, Ceado e37j, Ceado E6P, Compak k6, Mazzer Mini Doserless (beware of motor), ECM S-Manuale 64, Nuova Simonelli MDX, Eureka Atom, Helios, Zenith 65 (buy SSP at your own risk: they may  or may not fit)
 
-### 75mm Commercials 
+### 75mm Commercials
 
 #### Eureka Atom Specialty, Olympus 75: Prices vary widely
 - Compatible with Mythos Burrset (Hoffmann setup) or SSP  

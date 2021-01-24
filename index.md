@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "This is a collection of information from the Espresso Aficionados discord server!"
+permalink: /
+---
+
 ## Welcome
 This is a collection of information from the Espresso Aficionados discord server!
 

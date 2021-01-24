@@ -6,11 +6,13 @@ description: "This is a collection of information from the Espresso Aficionados 
 permalink: /
 ---
 
-## Welcome
+# Welcome
 This is a collection of information from the Espresso Aficionados discord server!
 
-Please come join the server if you have any questions! [Espresso Aficionados Discord](https://discord.gg/gdNdA9xXyS)
+Please come join the server if you have any questions! [Espresso Aficionados Discord](https://discord.gg/espresso)
 
+1. TOC
+{:toc}
 
 ### Recommendations
 - [Coffee](reccs/coffee.md)

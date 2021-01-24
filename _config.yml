@@ -2,3 +2,9 @@ remote_theme: pmarsceill/just-the-docs
 title: Espresso Aficionados
 description: Info from the Espresso Aficionados discord server
 color_scheme: "dark"
+aux_links:
+  "Espresso Aficionados Discord":
+    "//discord.gg/espresso"
+  "r/espresso on Reddit":
+    "//www.reddit.com/r/espresso/"
+aux_links_new_tab: true

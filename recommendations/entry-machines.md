@@ -5,7 +5,7 @@ parent: Recommendations
 nav_order: 2
 ---
 
-# Recommended Entry Level Machines List
+# Entry Level Machines
 
 We look at entry level machines in 3 categories: manual levers, single boilers, and Brevilles. While it is more complicated down in the details, the easiest way to approach this with no background knowledge is to answer one question: are you okay with modding the machine to bring it up to a high level of performance, or do you want a system packed with features out of the box with potentially lower max capability?
 

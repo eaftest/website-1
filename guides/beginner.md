@@ -37,9 +37,8 @@ Is the shot tasting too bitter? Shorten the ratio and instead try 18g/32g
 
 If your shot is tasting both bitter and sour at the same time, you’re probably extracting unevenly due to channeling - work on your puck prep!
 
-<p align="center">
-  <i> Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting shot, with balanced acidity, gentle sweetness, and no astringency </i>
-</p>
+_Lets say that a brew ratio of 18g/40g is giving us the most balanced tasting shot, with balanced acidity, gentle sweetness, and no astringency_
+{: .text-center }
 
 ### 4. Hone in on your grind
 Once you’ve found the ratio that works best, we want to work on increasing our extraction.
@@ -49,9 +48,8 @@ As a general rule, you want to grind as fine as you can. At some point, your gri
 
 If you find that flavour starts to drop off, you’ve gone into ‘too fine’ territory. Grind one step coarser, and, as a general rule, that is most likely the best grind size for your current recipe.
 
-<p align="center">
-  <i> Congratulations, you've dialled in your shot! </i>
-</p>
+_Congratulations, you've dialled in your shot!_
+{: .text-center }
 
 ### Bonus round
 Brew temperatures can play a big role in extraction, especially if you're brewing beans that are roasted very light or dark. Most beginner machines are set to 200F/93.5c, but for those of you with machines capable of temperature adjustment, this is another variable you can play with.

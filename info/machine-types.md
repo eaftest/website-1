@@ -1,3 +1,10 @@
+---
+layout: default
+title: Types of Espresso Machines
+parent: Information
+nav_order: 1
+---
+
 # Types of Espresso Machines
 
 ## Steam Driven

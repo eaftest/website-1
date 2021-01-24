@@ -5,10 +5,9 @@ parent: Information
 nav_order: 3
 ---
 
-# Living the Bripe Life
-
 #### Author: Bripe
 
-Lorem Ipsum
+# Living the Bripe Life
 
-###### Author: Bripe
+
+Lorem Ipsum

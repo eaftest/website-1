@@ -18,7 +18,7 @@ Choose a dose that best suits your basket. Underdosing can lead to a soupy puck 
 Also note that higher doses of coffee are harder to properly extract, as there is more coffee to extract fully. This is especially true for lighter roasts. If you find yourself struggling to extract enough, and your shots are tasting sour despite pulling a longer ratio, try dosing 1-2g less.
 
 _For the sake of this example, lets say we are locking in a dose of 18g_
-{: .mx-auto }
+{: .text-center }
 
 Note: While dose is a variable that can also be adjusted to affect shot time, for simplicity's sake, it is easier to lock in dose *first* and adjust shot time via changing grind size.
 

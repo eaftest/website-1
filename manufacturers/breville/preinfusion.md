@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breville - Pulling Shots in Pre-Infusion Mode
+title: Pulling Shots in Pre-Infusion Mode
 parent: Breville
 grand_parent: Manufacturers
 ---

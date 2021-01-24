@@ -17,7 +17,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 
 - [Recommendations](recommendations)
   - [Entry Level Espresso Machines](recommendations/entry-machines)
-  - [Enrty Level Grinders](recommendations/entry-grinders)
+  - [Entry Level Grinders](recommendations/entry-grinders)
 - [Guides](guides)
   - [How to Dial In Espresso: The Basics](guides/beginner)
   - [What is Puck Prep?](guides/puckprep)

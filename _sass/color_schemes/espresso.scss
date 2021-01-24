@@ -12,8 +12,8 @@ $black: #000000;
 
 // Actual styles
 
-$body-background-color: $coffee;
-$sidebar-color: $espresso;
+$body-background-color: lighten($coffee, 10%);
+$sidebar-color: $coffee;
 $border-color: lighten($coffee, 25%);
 
 $body-text-color: $grey-lt-300;

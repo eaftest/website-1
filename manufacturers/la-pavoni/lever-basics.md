@@ -31,7 +31,7 @@ Don't forget to read through the [Dr. Pavoni section](http://www.francescoceccar
 _**"Basically we all have a bought an expensive tea kettle."**_ - Dr. Pavoni (George Fitzgerald)
 {: .text-center }
 
-&nbsp
+&nbsp;
 
 Another great resource is the La Pavoni Owners Group on Facebook - they're a welcoming and friendly bunch, and they have a full list of useful resources from group members at [lpowners.org](https://lpowners.org). **Note:** Accessing these resources requires that you are part of the group. You don't need to actually own a La Pavoni to join, but you need a Facebook account and an admin has to manually review your joining application.
 

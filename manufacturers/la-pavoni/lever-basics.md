@@ -22,12 +22,16 @@ grand_parent: Manufacturers
 
 This page covers most of the key points needed to own, use and maintain a La Pavoni lever espresso machine.
 
+### Useful Resources
+
 The definitive source of La Pavoni history and knowledge has to be [Francesco Ceccarelli's website](http://www.francescoceccarelli.eu/lapavoni_eng.htm). Francesco has documented the full history of the company and every espresso machine and grinder they have ever made. If you want to identify your La Pavoni, compare it to the images on the [Eurpiccola](http://www.francescoceccarelli.eu/lapavoni_ep_eng.htm) or [Professional](http://www.francescoceccarelli.eu/lapavoni_pr_eng.htm) pages.
 
 Don't forget to read through the [Dr. Pavoni section](http://www.francescoceccarelli.eu/La_Pavoni/Dr_Pavoni/overview.htm) while you're looking at Francesco's site - while it's old and in some places out of date for the latest machines, it's a wealth of detailed information about how to maintain and repair La Pavoni lever machines.
 
 _**"Basically we all have a bought an expensive tea kettle."**_ - Dr. Pavoni (George Fitzgerald)
 {: .text-center }
+
+&nbsp
 
 Another great resource is the La Pavoni Owners Group on Facebook - they're a welcoming and friendly bunch, and they have a full list of useful resources from group members at [lpowners.org](https://lpowners.org). **Note:** Accessing these resources requires that you are part of the group. You don't need to actually own a La Pavoni to join, but you need a Facebook account and an admin has to manually review your joining application.
 

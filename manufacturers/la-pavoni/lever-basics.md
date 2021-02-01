@@ -28,12 +28,10 @@ The definitive source of La Pavoni history and knowledge has to be [Francesco Ce
 
 Don't forget to read through the [Dr. Pavoni section](http://www.francescoceccarelli.eu/La_Pavoni/Dr_Pavoni/overview.htm) while you're looking at Francesco's site - while it's old and in some places out of date for the latest machines, it's a wealth of detailed information about how to maintain and repair La Pavoni lever machines.
 
-_**"Basically we all have a bought an expensive tea kettle."**_ - Dr. Pavoni (George Fitzgerald)
+_"Basically we all have a bought an expensive tea kettle."_ - Dr. Pavoni (George Fitzgerald)
 {: .text-center }
 
-&nbsp;
-
-Another great resource is the La Pavoni Owners Group on Facebook - they're a welcoming and friendly bunch, and they have a full list of useful resources from group members at [lpowners.org](https://lpowners.org). **Note:** Accessing these resources requires that you are part of the group. You don't need to actually own a La Pavoni to join, but you need a Facebook account and an admin has to manually review your joining application.
+Another great resource is the La Pavoni Owners Group on Facebook - they're a welcoming and friendly bunch, and they have a full list of useful resources from group members at [lpowners.org](https://lpowners.org). It's worth noting that accessing these resources requires that you are part of the Facebook group. You don't need to actually own a La Pavoni to join, but you need a Facebook account and an admin has to manually review your joining application.
 
 ### Europiccola - A Brief History
 
@@ -107,7 +105,7 @@ Regular maintenance is a key part of keeping any espresso machine in good shape 
 
 ### Daily
 
-- Use [good water](guides/water) - softened or remineralised water will prevent scale buildup and give you better tasting coffee
+- Use [good water](/guides/water) - softened or remineralised water will prevent scale buildup and give you better tasting coffee
 - After every use, clean the steam wand out with a damp cloth and some steam
 - If you use the automatic frother attachment, flush it out by running some clean water through it
 - After you've finished pulling shots of espresso, flush a little water out through the group and wipe away any grounds or coffee with a damp cloth. Warning, the group will be hot!
